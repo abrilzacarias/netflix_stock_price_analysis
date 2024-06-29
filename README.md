@@ -1,4 +1,4 @@
-# Data Analysis and Visualization with Power BI
+# Netflix Stock Price Dashboard using PowerBi for Data Analysis
 
 ## Overview
 
