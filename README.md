@@ -4,11 +4,13 @@
 
 This project focuses on analyzing and visualizing stock price data from Netflix using Power BI. The goal is to extract practical insights from historical stock prices, enhancing decision-making processes.
 
+![image](https://github.com/abrilzacarias/netflix_stock_price_analysis/assets/83786610/ff0cce7e-7d2a-4021-96d9-9fb91140d5b7)
+
 ## Steps Taken
 
 ### Data Preprocessing
 
-1. **Data Loading**: The Netflix dataset was imported into Power BI to begin the analysis process.
+1. **Data Loading**: The Netflix dataset was imported into Power BI to begin the analysis process. 
 
 2. **Data Quality Check**: A review was conducted to identify any missing values and inconsistencies in column data types. This step ensured that the data was clean for analysis.
 
